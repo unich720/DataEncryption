@@ -1,0 +1,16 @@
+C:\GitHub\DataEncryption\DataEncryption\bin\Debug\net6.0\DataEncryption.exe
+C:\GitHub\DataEncryption\DataEncryption\bin\Debug\net6.0\Text.txt
+C:\GitHub\DataEncryption\DataEncryption\bin\Debug\net6.0\DataEncryption.deps.json
+C:\GitHub\DataEncryption\DataEncryption\bin\Debug\net6.0\DataEncryption.runtimeconfig.json
+C:\GitHub\DataEncryption\DataEncryption\bin\Debug\net6.0\DataEncryption.dll
+C:\GitHub\DataEncryption\DataEncryption\bin\Debug\net6.0\DataEncryption.pdb
+C:\GitHub\DataEncryption\DataEncryption\obj\Debug\net6.0\DataEncryption.csproj.AssemblyReference.cache
+C:\GitHub\DataEncryption\DataEncryption\obj\Debug\net6.0\DataEncryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\DataEncryption\DataEncryption\obj\Debug\net6.0\DataEncryption.AssemblyInfoInputs.cache
+C:\GitHub\DataEncryption\DataEncryption\obj\Debug\net6.0\DataEncryption.AssemblyInfo.cs
+C:\GitHub\DataEncryption\DataEncryption\obj\Debug\net6.0\DataEncryption.csproj.CoreCompileInputs.cache
+C:\GitHub\DataEncryption\DataEncryption\obj\Debug\net6.0\DataEncryption.dll
+C:\GitHub\DataEncryption\DataEncryption\obj\Debug\net6.0\ref\DataEncryption.dll
+C:\GitHub\DataEncryption\DataEncryption\obj\Debug\net6.0\DataEncryption.pdb
+C:\GitHub\DataEncryption\DataEncryption\obj\Debug\net6.0\DataEncryption.genruntimeconfig.cache
+C:\GitHub\DataEncryption\DataEncryption\obj\Debug\net6.0\refint\DataEncryption.dll
